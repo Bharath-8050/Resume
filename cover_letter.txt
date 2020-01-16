@@ -1,0 +1,4 @@
+Automation test engineer with 3 years experience.
+Programming language - c , Python , AutoIT , Selenium
+Technology - JIRA, GIT , POSTMAN , Docker, Jenkins , Automation testing
+
